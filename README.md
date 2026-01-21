@@ -29,9 +29,7 @@
 
 - 💬 Ask me about **Manual testing, Automation testing, API Testing, Web Design, Database Design **
 
-- ⚡ Fun fact **System Engineer building prepaid smart metering systems.  
-I turn gas, electricity, and water into data… and sometimes coffee into code.  
-Debugger, problem solver, and customer-driven system enthusiast.
+- ⚡ Fun fact :  **System Engineer building prepaid smart metering systems.  I turn gas, electricity, and water into data… and sometimes coffee into code. Debugger, problem solver, and customer-driven system enthusiast.
 .**
 
 <h3 align="left">Languages and Tools:</h3>
